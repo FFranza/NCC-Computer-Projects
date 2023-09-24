@@ -1,4 +1,4 @@
-# NCC-Computer-Club-2023-Projects
+# NCC-Computer-Club-Projects
 The Main Repository for the NCC Computer Club. All projects done over the year will be committed into here. 
 
 Club GitHub Repository Guidelines
