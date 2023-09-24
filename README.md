@@ -4,18 +4,6 @@ The Main Repository for the NCC Computer Club. All projects done over the year w
 ## Club GitHub Repository Guidelines
 Welcome to our club's GitHub repository! This space is where we collaborate and store our code, projects, and documentation. To ensure smooth and productive cooperation, we've outlined some common etiquette and guidelines for proper usage of this repository.
 
-## Table of Contents
-### Access Request
-### Code of Conduct
-### Repository Structure
-### Branching Strategy
-### Commit Guidelines
-### Pull Requests
-### Issue Tracking
-### Code Reviews
-### Collaboration
-### Feedback and Support
-
 #### 1. Access Request
 To access this repository, you must be a club member. If you haven't been granted access yet, please request it from the repository administrator.
 
